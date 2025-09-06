@@ -1,0 +1,11 @@
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\bin\Debug\OrganizationProfile_Harina.exe.config
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\bin\Debug\OrganizationProfile_Harina.exe
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\bin\Debug\OrganizationProfile_Harina.pdb
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.csproj.AssemblyReference.cache
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.Properties.Resources.resources
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.csproj.GenerateResource.cache
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.csproj.CoreCompileInputs.cache
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.exe
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.pdb
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.frmRegistration.resources
+C:\Users\LAB5-PC033\Source\Repos\OrganizationProfile_Harina\OrganizationProfile_Harina\obj\Debug\OrganizationProfile_Harina.frmConfirmation.resources
