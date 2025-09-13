@@ -1,0 +1,10 @@
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\bin\Debug\Inventory_Harina.exe.config
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\bin\Debug\Inventory_Harina.exe
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\bin\Debug\Inventory_Harina.pdb
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\obj\Debug\Inventory_Harina.csproj.AssemblyReference.cache
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\obj\Debug\Inventory_Harina.frmAddProduct.resources
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\obj\Debug\Inventory_Harina.Properties.Resources.resources
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\obj\Debug\Inventory_Harina.csproj.GenerateResource.cache
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\obj\Debug\Inventory_Harina.csproj.CoreCompileInputs.cache
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\obj\Debug\Inventory_Harina.exe
+C:\Users\LAB5-PC033\Source\Repos\Inventory_Harina\Inventory_Harina\obj\Debug\Inventory_Harina.pdb
