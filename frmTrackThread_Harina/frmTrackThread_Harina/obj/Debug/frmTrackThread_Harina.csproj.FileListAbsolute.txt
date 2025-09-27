@@ -1,0 +1,10 @@
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\bin\Debug\frmTrackThread_Harina.exe.config
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\bin\Debug\frmTrackThread_Harina.exe
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\bin\Debug\frmTrackThread_Harina.pdb
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\obj\Debug\frmTrackThread_Harina.csproj.AssemblyReference.cache
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\obj\Debug\frmTrackThread_Harina.frmTrackThread.resources
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\obj\Debug\frmTrackThread_Harina.Properties.Resources.resources
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\obj\Debug\frmTrackThread_Harina.csproj.GenerateResource.cache
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\obj\Debug\frmTrackThread_Harina.csproj.CoreCompileInputs.cache
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\obj\Debug\frmTrackThread_Harina.exe
+C:\Users\LAB5-PC033\Source\Repos\frmTrackThread_Harina\frmTrackThread_Harina\obj\Debug\frmTrackThread_Harina.pdb
