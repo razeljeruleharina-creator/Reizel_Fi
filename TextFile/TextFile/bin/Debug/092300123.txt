@@ -1,0 +1,7 @@
+﻿Student No.:092300123
+Full Name:asdasd, sadfsa, dasdas.
+Program: BS Tourism Management
+Gender: Other
+Age: 12
+Birthday: 2025-10-21
+Contact No.:521650650

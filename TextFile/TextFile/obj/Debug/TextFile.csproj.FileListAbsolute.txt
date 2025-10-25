@@ -1,0 +1,12 @@
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\bin\Debug\TextFile.exe.config
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\bin\Debug\TextFile.exe
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\bin\Debug\TextFile.pdb
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.csproj.AssemblyReference.cache
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.FrmFileName.resources
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.FrmLab1.resources
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.Properties.Resources.resources
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.csproj.GenerateResource.cache
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.csproj.CoreCompileInputs.cache
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.exe
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.pdb
+C:\Users\LAB5-PC033\Source\Repos\TextFile\TextFile\obj\Debug\TextFile.FrmRegistration.resources

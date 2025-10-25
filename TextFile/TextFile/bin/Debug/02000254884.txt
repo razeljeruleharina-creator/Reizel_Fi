@@ -1,0 +1,7 @@
+﻿Student No.:02000254884
+Full Name:Maldonado, Joseph Emmanuel, L..
+Program: BS Information Technology
+Gender: Male
+Age: 20
+Birthday: 2025-10-21
+Contact No.:09830326200

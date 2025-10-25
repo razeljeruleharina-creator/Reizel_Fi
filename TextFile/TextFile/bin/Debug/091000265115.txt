@@ -1,0 +1,7 @@
+﻿Student No.:091000265115
+Full Name:Andaya, Lourence, M..
+Program: BS Information Technology
+Gender: Male
+Age: 20
+Birthday: 2025-10-21
+Contact No.:09123456789
